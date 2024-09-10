@@ -10,13 +10,13 @@ out/*
 venv/*
 cache*
 outputs/*
-data/*
+# data/*
 
 .vscode/*
 wandb
 e-SNLI/*
 *.log
 slurm-*.out
-shell_scripts*
+# shell_scripts*
 
 tmp*
